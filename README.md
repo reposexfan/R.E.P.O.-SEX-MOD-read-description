@@ -1,2 +1,10 @@
-# R.E.P.O.-SEX-MOD-read-description
-To order to use this mod, you got to pay 5 dollars to make sure your actually 18.
+# Repo Sex
+the horniest git repo on planet earth  
+69 commits or go home  
+
+## Usage
+```bash
+git clone https://github.com/YOUR_USERNAME/repo-sex.git
+cd repo-sex
+npm install consent   # doesn't exist yet, but it will
+npm run fuck
